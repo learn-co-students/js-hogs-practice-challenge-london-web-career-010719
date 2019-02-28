@@ -1,15 +1,6 @@
 {
   "hogs": [
     {
-      "id": 0,
-      "name": "Mudblood",
-      "specialty": "Mediocre magic",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2,
-      "highest medal achieved": "bronze",
-      "image": "./hog-imgs/mudblood.jpg"
-    },
-    {
       "id": 1,
       "name": "Porkchop",
       "specialty": "Making friends",
@@ -116,6 +107,62 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "",
+      "specialty": "",
+      "greased": "greased",
+      "highest medal achieved": "",
+      "image": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "specialty": "",
+      "greased": "greased",
+      "highest medal achieved": "",
+      "image": "",
+      "id": 14
+    },
+    {
+      "name": "Joey",
+      "specialty": "dsdf",
+      "greased": true,
+      "highest medal achieved": "sfdf",
+      "image": "file:///C:/code/mod3/js-hogs-practice-challenge-london-web-career-010719/hog-imgs/cherub.jpg",
+      "id": 15
+    },
+    {
+      "name": "Joey",
+      "specialty": "dsdf",
+      "greased": true,
+      "highest medal achieved": "sfdf",
+      "image": "file:///C:/code/mod3/js-hogs-practice-challenge-london-web-career-010719/hog-imgs/cherub.jpg",
+      "id": 16
+    },
+    {
+      "name": "Joey",
+      "specialty": "dsdf",
+      "greased": true,
+      "highest medal achieved": "sfdf",
+      "image": "file:///C:/code/mod3/js-hogs-practice-challenge-london-web-career-010719/hog-imgs/cherub.jpg",
+      "id": 17
+    },
+    {
+      "name": "Joey",
+      "specialty": "dsdf",
+      "greased": true,
+      "highest medal achieved": "sfdf",
+      "image": "file:///C:/code/mod3/js-hogs-practice-challenge-london-web-career-010719/hog-imgs/cherub.jpg",
+      "id": 18
+    },
+    {
+      "name": "Joey",
+      "specialty": "dsdf",
+      "greased": true,
+      "highest medal achieved": "sfdf",
+      "image": "file:///C:/code/mod3/js-hogs-practice-challenge-london-web-career-010719/hog-imgs/cherub.jpg",
+      "id": 19
     }
   ]
 }
